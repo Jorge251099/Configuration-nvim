@@ -17,6 +17,7 @@ set shiftwidth=2
 set softtabstop=2
 set expandtab
 set autoindent
+set mouse=c
 
 hi EndOfBuffer guifg=bg guibg=bg
 hi LineNr guibg=bg

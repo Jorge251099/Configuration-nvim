@@ -40,7 +40,10 @@ Plug 'vim-python/python-syntax'
 Plug 'gfanto/fzf-lsp.nvim'
 Plug 'nvim-lua/plenary.nvim'
 
-" add this line to your .vimrc file
+" cheats html-css-js 
 Plug 'mattn/emmet-vim'
+
+"Telescope
+Plug 'nvim-telescope/telescope.nvim'
 
 call plug#end()
